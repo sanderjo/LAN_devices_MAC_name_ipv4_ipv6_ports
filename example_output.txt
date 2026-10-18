@@ -1,0 +1,38 @@
+MAC                Name                               Vendor                            IPv4                          Public IPv6                              Open ports   
+-----------------  ---------------------------------  --------------------------------  ----------------------------  ---------------------------------------  -------------
+ec:fc:2f:64:7e:3a                                     Sagemcom Broadband SAS            192.168.1.12                  2001:1234:abcd:a800:eefc:2fff:fe64:7e3a
+1c:53:f9:03:6b:0c  Huiskamer chromecast (Chromecast)  Google, Inc.                      192.168.1.16                  2001:1234:abcd:a800:4991:25a4:a10d:9c40
+                                                                                                                      2001:1234:abcd:a800:6121:2146:7be3:604a
+44:07:0b:5f:8b:35  Huiskamer (Google Home Mini)       Google, Inc.                      192.168.1.105                 2001:1234:abcd:a800:4607:bff:fe5f:8b35
+                                                                                                                      2001:1234:abcd:a800:682f:8487:6ceb:33f2
+                                                                                                                      2001:1234:abcd:a800:8995:b288:443e:f6e9
+02:01:9c:45:40:d7  nanopineo2                         (random MAC)                      192.168.1.109                 2001:1234:abcd:a800:8f3d:c201:3756:a4dc  80, 443, 8080
+                                                                                                                      2001:1234:abcd:a800:f22e:796:ece8:9ce9
+1c:bf:ce:2f:c3:a9  brixit                             Shenzhen Century Xinyang Technol  192.168.1.129                 2001:1234:abcd:a800::1                   80, 443, 8080
+                                                                                                                      2001:1234:abcd:a800:21b6:dede:2222:5181
+                                                                                                                      2001:1234:abcd:a800:2ede:2a6e:d37a:d8a7
+                                                                                                                      2001:1234:abcd:a800:80cd:a288:908d:72b0
+                                                                                                                      2001:1234:abcd:a800:f2ef:1ab0:fbb8:78ad
+1c:bf:ce:6c:9f:22  nuccie                             Shenzhen Century Xinyang Technol  192.168.1.139, 192.168.1.243  2001:1234:abcd:a800:ed6:da3b:a4eb:a60    80, 8080
+                                                                                                                      2001:1234:abcd:a800:216e:62da:5b87:634e
+                                                                                                                      2001:1234:abcd:a800:74ac:f5d9:14ad:d6cb
+78:8a:86:1a:72:08  nuccie                             China Dragon Technology Limited   192.168.1.139*                2001:1234:abcd:a800:98a2:3f62:5d4b:a483  80, 8080
+                                                                                                                      2001:1234:abcd:a800:ca1e:e2c5:313a:7899
+68:ec:8a:0f:78:30  68EC8A0F7830                       IKEA of Sweden AB                 192.168.1.152                 2001:1234:abcd:a800:6aec:8aff:fe0f:7830
+90:de:80:05:2c:64  raspizero-8                        Shenzhen Century Xinyang Technol  192.168.1.157                 2001:1234:abcd:a800:92de:80ff:fe05:2c64  80
+de:f6:91:3b:26:03                                     (random MAC)                      192.168.1.162                 2001:1234:abcd:a800:b5e4:7383:de03:c2ff
+                                                                                                                      2001:1234:abcd:a800:dcf6:91ff:fe3b:2603
+ec:fc:2f:5b:f2:fa                                     Sagemcom Broadband SAS            192.168.1.163                 2001:1234:abcd:a800:eefc:2fff:fe5b:f2fa
+ec:fc:2f:65:f1:cf                                     Sagemcom Broadband SAS            192.168.1.164                 2001:1234:abcd:a800:eefc:2fff:fe65:f1cf
+ec:fc:2f:5b:f2:e8                                     Sagemcom Broadband SAS            192.168.1.165                 2001:1234:abcd:a800:eefc:2fff:fe5b:f2e8
+68:ee:8f:50:63:00                                     ?                                 192.168.1.169                 2001:1234:abcd:a800::2222                80
+                                                                                                                      2001:1234:abcd:a800:6aee:8fff:fe50:6300
+7c:76:35:ab:d1:81  x360 [this host]                   Intel Corporate                   192.168.1.235                 2001:1234:abcd:a800:4a82:6589:cb33:3456  80, 8080
+                                                                                                                      2001:1234:abcd:a800:52fd:42aa:2790:cfe5
+                                                                                                                      2001:1234:abcd:a800:92af:9a5c:1b65:9c3f
+                                                                                                                      2001:1234:abcd:a800:ebf9:b778:57f8:abc
+b0:8c:b3:9a:7c:fd  spacemitk3                         ?                                 192.168.1.244                 2001:1234:abcd:a800:f730:fc63:f2c9:2d8a  8080
+00:03:e6:c3:ec:45                                     Entone, Inc.                      192.168.1.249
+ec:fc:2f:47:e7:6b  [gateway]                          Sagemcom Broadband SAS            192.168.1.254                 2001:1234:abcd:a800:eefc:2fff:fe47:e76b  80, 443
+
+* IPv4 from mDNS only: ARP answered for it with another MAC of the same host
